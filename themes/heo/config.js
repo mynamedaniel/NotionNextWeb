@@ -11,7 +11,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '数据/AI/编程/营销',
-  HERO_TITLE_2: '个人思考/生活哲学',
+  HERO_TITLE_2: '管理/思考/健康',
   HERO_TITLE_3: 'XUZHEBLOG.COM',
   HERO_TITLE_4: '经典好文',
   HERO_TITLE_5: '数据分析师的自我修养',
@@ -29,8 +29,7 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 Cookiepapa',
-    '📊 数据分析师',
+    '🔍 Cookiepapa\n📊 数据分析师',
     '💻 独立开发者',
     '👶 前全职奶爸',
     '🐶 铲屎官X2',
