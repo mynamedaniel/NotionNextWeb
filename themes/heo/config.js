@@ -6,7 +6,6 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://xuzheblog.com' },
-    { title: '欢迎下载心晴App', url: 'https://apps.apple.com/cn/app/%E5%BF%83%E6%99%B4-%E8%AE%B0%E5%BD%95%E5%BF%83%E6%83%85-%E6%8E%92%E8%A7%A3%E6%83%85%E7%BB%AA-%E8%A7%A3%E7%AD%94%E9%97%AE%E9%A2%98/id6463860072' }
   ],
 
   // 英雄区(首页顶部大卡)
