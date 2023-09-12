@@ -10,10 +10,10 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '分享数据',
-  HERO_TITLE_2: '与个人思考',
+  HERO_TITLE_1: '数据/AI/编程/营销',
+  HERO_TITLE_2: '个人思考/生活哲学',
   HERO_TITLE_3: 'XUZHEBLOG.COM',
-  HERO_TITLE_4: '',
+  HERO_TITLE_4: '经典好文',
   HERO_TITLE_5: '数据分析师的自我修养',
   HERO_TITLE_LINK: 'https://www.xuzheblog.com/article/340027af-0364-46f5-b2a3-f7807ada37aa',
 
@@ -23,8 +23,8 @@ const CONFIG = {
   HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
-  HERO_RECOMMEND_POST_TAG: '推荐',
-  HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
+  HERO_RECOMMEND_POST_TAG: '必看精选',
+  HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: true, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
