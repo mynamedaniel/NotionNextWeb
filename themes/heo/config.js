@@ -29,14 +29,15 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 Cookiepapa\n📊 数据分析师',
+    '🔍 Cookiepapa',
+    '📊 数据分析师',
     '💻 独立开发者',
     '👶 前全职奶爸',
     '🐶 铲屎官X2',
     '🏋️‍♀️ 棒铃爱好者',
     '📖 终身学习者',
     '😋 保守主义者',
-    '🌲 长期主义者'
+    '🌲 长期主义者',
   ],
   INFO_CARD_URL: 'https://xuzheblog.com', // 个人资料底部按钮链接
 
