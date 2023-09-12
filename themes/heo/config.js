@@ -10,8 +10,8 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '数据/AI/编程/营销',
-  HERO_TITLE_2: '管理/思考/健康',
+  HERO_TITLE_1: '数据科学',
+  HERO_TITLE_2: '与个人思考',
   HERO_TITLE_3: 'XUZHEBLOG.COM',
   HERO_TITLE_4: '经典好文',
   HERO_TITLE_5: '数据分析师的自我修养',
