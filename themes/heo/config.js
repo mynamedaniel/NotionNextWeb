@@ -39,7 +39,7 @@ const CONFIG = {
     '😋 保守主义者',
     '🌲 长期主义者',
   ],
-  INFO_CARD_URL: 'https://xuzheblog.com', // 个人资料底部按钮链接
+  INFO_CARD_URL: 'https://github.com/mynamedaniel', // 个人资料底部按钮链接
 
   // 用户技能图标
   GROUP_ICONS: [
